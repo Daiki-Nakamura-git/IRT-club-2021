@@ -1,0 +1,21 @@
+--- 
+title: "「Rによる項目反応理論」の解説"
+author: "Daiki Nakamura"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+# github-repo: (your-github-repository)
+description: "This is a description. Please wrote a abstract this contents. "
+#bookdown::render_book("index.Rmd", output_format = "bookdown::gitbook")
+---
+
+# 項目反応理論入門
+
+## 標本依存性と項目依存性
+
+## 項目反応理論の登場
+
+## 項目特性曲線
+
+## 等化について
